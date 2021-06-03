@@ -15,7 +15,6 @@ int main()
     case 2:
         printf("a opcao escolhida foi: carregar\n");
         break;
-        printf("a opcao escolhida foi: carregar\n");
     case 3:
         printf("a opcao escolhida foi: apagar\n");
         break;
