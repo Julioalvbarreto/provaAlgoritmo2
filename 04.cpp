@@ -10,20 +10,20 @@ int main()
     switch (x)
     {
     case 1:
-        printf("a opcao escolhida foi: gravar\n");
+        printf("a opcao escolhida foi: Gravar\n");
         break;
     case 2:
-        printf("a opcao escolhida foi: carregar\n");
+        printf("a opcao escolhida foi: Carregar\n");
         break;
-        printf("a opcao escolhida foi: carregar\n");
+        
     case 3:
-        printf("a opcao escolhida foi: apagar\n");
+        printf("a opcao escolhida foi: Apagar\n");
         break;
     case 4:
-        printf("a opcao escolhida foi: inserir\n");
+        printf("a opcao escolhida foi: Inserir\n");
         break;
     case 5:
-        printf("a opcao escolhida foi: finalizar\n");
+        printf("a opcao escolhida foi: Finalizar\n");
         break;
     default:
         printf("opcao invalida");
