@@ -14,40 +14,45 @@ int main()
     if (med2 >= 9.0)
     {
         printf("o numero de idetificacao eh: %d\n", numIden);
+        printf("Notas: %.2f %.2f %.2f\n", n1,n2,n3);
         printf("a media eh: %.2f\n", med);
-        printf("a media de aproveitamento eh: %.2f\n");
+        printf("a media de aproveitamento eh: %.2f\n", med2);
         printf("A\n");
         printf("Aprovado\n");
     }
     else if (med2 >= 7.5 && med2 < 9.0)
     {
         printf("o numero de idetificacao eh: %d\n", numIden);
+        printf("Notas: %.2f %.2f %.2f\n", n1,n2,n3);
         printf("a media eh: %.2f\n", med);
-        printf("a media de aproveitamento eh: %.2f\n");
+        printf("a media de aproveitamento eh: %.2f\n", med2);
         printf("B\n");
         printf("Aprovado\n");
     }
     else if (med2 >= 6.0 && med2 < 7.5)
     {
         printf("o numero de idetificacao eh: %d\n", numIden);
+        printf("Notas: %.2f %.2f %.2f\n", n1,n2,n3);
         printf("a media eh: %.2f\n", med);
-        printf("a media de aproveitamento eh: %.2f\n");
+        printf("a media de aproveitamento eh: %.2f\n", med2);
         printf("C\n");
         printf("Aprovado\n");
     }
     else if (med2 >= 4.0 && med2 < 6.0)
     {
         printf("o numero de idetificacao eh: %d\n", numIden);
+        printf("Notas: %.2f %.2f %.2f\n", n1,n2,n3);
         printf("a media eh: %.2f\n", med);
-        printf("a media de aproveitamento eh: %.2f\n");
+        printf("a media de aproveitamento eh: %.2f\n", med2);
         printf("D\n");
         printf("Reprovado\n");
     }
     else
     {
         printf("o numero de idetificacao eh: %d\n", numIden);
+        printf("Notas: %.2f %.2f %.2f\n", n1,n2,n3);
         printf("a media eh: %.2f\n", med);
-        printf("a media de aproveitamento eh: %.2f\n");
+        printf("a media de aproveitamento eh: %.2f\n", med2);
         printf("F\n");
         printf("Reprovado\n");
     }
