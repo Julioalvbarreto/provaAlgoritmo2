@@ -41,6 +41,7 @@ int main()
         printf("a media eh: %.2f\n", med);
         printf("a media de aproveitamento eh: %.2f\n");
         printf("D\n");
+        printf("Reprovado\n");
     }
     else
     {
