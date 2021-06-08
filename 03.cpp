@@ -25,5 +25,5 @@ int main()
         printf("Adulto");
     }
 
-    return 0; //aa
+    return 0;
 }

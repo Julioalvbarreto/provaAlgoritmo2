@@ -5,7 +5,7 @@ int main()
     int numIden;
     printf("coloque o numero de identificacao:\n");
     scanf("%d", &numIden);
-    printf("coloque as 3 notas");
+    printf("coloque as 3 notas\n");
     scanf("%f %f %f", &n1, &n2, &n3);
 
     med = (n1 + n2 + n3) / 3;
